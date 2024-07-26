@@ -7,6 +7,7 @@ from datetime import datetime
 # Jira credentials and project details
 JIRA_URL = 'https://betby.atlassian.net'
 USERNAME = 'a.nazarenko@betby.com'
+PASSWORD = 'jhC87DJs87Flk73jhD__Jk3'
 API_TOKEN = '9tflsKrkY27Can5dEQP5P36lYodHo9Z94UJyMHZQmoN1jKkjn4B8Rb1G5lZE8I0Z6dcrv9wfgFpVWJDOv2RczXBCqVk1LqYYn4hqMyRLWAzqPkxQuw2PIDbTs7reJNltlv5aMf5CqpWRhQqLNEhDS22K54yDOYTzq4nFVIxIByNpVHh8xqE6ecSyyVnqaOfT'
 PROJECT_KEY = 'FRONT'
 
