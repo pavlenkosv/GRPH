@@ -4,7 +4,7 @@
 Here's a Python script to connect to Jira, pull issues from a project, analyze attributes like start date and due date, and generate a Gantt chart. This script uses the requests library for Jira API calls and plotly for creating the Gantt chart. Make sure you have requests and plotly installed:
 
 
-`code` pip install requests plotly
+`pip install requests plotly`
 
 ## Important Notes:
 Authentication: The script uses Basic Authentication with an API token, which is more secure than using a password. Generate an API token from your Jira account and replace API_TOKEN with it.
